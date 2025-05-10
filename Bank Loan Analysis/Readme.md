@@ -51,7 +51,12 @@ The **Summary Dashboard** delivers high-level performance metrics (KPIs) crucial
    * Gauges borrower financial health and affordability
    * Includes trend comparisons to monitor risk patterns
 
+ 🖼️ Summary Dashboard Snapshots:
+![summary dashboard](https://github.com/user-attachments/assets/b300da3d-a4da-4fdf-acdc-c144c8d4db32)
+
 ---
+
+
 
 ## ✅ Good vs. Bad Loan Analysis
 
@@ -87,6 +92,22 @@ A tabular view that consolidates key metrics grouped by **Loan Status** (e.g., C
 * Average Interest Rate
 * Average DTI Ratio
 
+
+  
+## 📋 Overview Dashboard – Executive Summary
+
+The **Overview Dashboard** consolidates key figures and visualizations into one clean interface, allowing users to:
+
+* Monitor real-time performance at a glance
+* Switch between different filters and KPIs
+* Navigate easily to deeper insights across borrower segments
+
+This dashboard acts as the **control center** for strategic decision-making.
+
+
+ 🖼️ Overview Dashboard Snapshots:
+![overivew dashboard](https://github.com/user-attachments/assets/2ebe369d-233d-4803-800a-880ee99c330a)
+
 ---
 
 ## 🔍 Details Dashboard – Deep Dive Visual Analysis
@@ -102,19 +123,15 @@ The **Details Dashboard** gives a closer look at borrower behavior, demographic 
 
 All visuals include metrics like **Applications, Funded Amount, and Amount Received** for contextual insights.
 
----
+## 📋 Details Dashboard – Executive Summary
 
-## 📋 Overview Dashboard – Executive Summary
+![Details Dashboard](https://github.com/user-attachments/assets/a6224471-546c-4b19-b35f-055bf282c0db)
 
-The **Overview Dashboard** consolidates key figures and visualizations into one clean interface, allowing users to:
-
-* Monitor real-time performance at a glance
-* Switch between different filters and KPIs
-* Navigate easily to deeper insights across borrower segments
-
-This dashboard acts as the **control center** for strategic decision-making.
 
 ---
+
+
+
 
 ## 🔧 Technical Approach
 
@@ -136,5 +153,5 @@ This solution delivers a real-world, business-grade dashboard project that simul
 
 ---
 
-Would you like help adding an animated GIF or video preview to this README to show dashboard interactivity?
+
 
