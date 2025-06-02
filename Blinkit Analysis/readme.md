@@ -5,6 +5,7 @@
 This Power BI report provides a comprehensive analysis of Blinkit's sales data to uncover key insights across revenue generation, customer satisfaction, inventory distribution, and outlet performance. The goal is to help stakeholders identify areas of optimization using interactive dashboards and KPIs.
 
 🎯 Business Requirements
+
 The report is designed to answer key business questions related to:
 
 Overall sales performance
@@ -18,6 +19,7 @@ Customer satisfaction through ratings
 Regional and outlet-type-based sales trends
 
 📌 KPIs Implemented
+
 Total Sales – Sum of revenue from all items sold
 
 Average Sales – Average revenue per transaction or item
@@ -56,11 +58,13 @@ Chart Type: Funnel Map
 All Metrics by Outlet Type
 Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
 Chart Type: Matrix Card
+
 🖼️ Dashboard Snapshots: 
 
 ![image](https://github.com/user-attachments/assets/009f428e-6867-4c38-ad58-4a7147a2e1e1)
 
 🛠 Tools Used
+
 Power BI Desktop
 
 DAX for calculated columns and measures
@@ -68,6 +72,7 @@ DAX for calculated columns and measures
 Power Query Editor for data transformation and cleaning
 
 📂 Files Included
+
 Blinkit_Sales_Analysis.pbix – Power BI report file
 
 blinkit_sales_data.csv – Dataset used for the project
