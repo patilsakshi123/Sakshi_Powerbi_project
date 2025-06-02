@@ -34,9 +34,11 @@ Objective: Analyze how fat content influences total sales and related KPIs
 
 Chart Type: Donut Chart
 
-Total Sales by Item Type
-Objective: Evaluate item type performance by total sales and additional KPIs
-Chart Type: Bar Chart
+**Total Sales by Item Type**
+
+**Objective: ** Evaluate item type performance by total sales and additional KPIs
+
+**Chart Type:** Bar Chart
 
 Fat Content by Outlet for Total Sales
 Objective: Compare total sales across outlets segmented by fat content
