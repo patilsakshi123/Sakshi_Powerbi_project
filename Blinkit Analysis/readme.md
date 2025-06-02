@@ -19,8 +19,11 @@ The report is designed to answer key business questions related to:
 📌 **KPIs Implemented**
 
 * Total Sales – Sum of revenue from all items sold
+  
 * Average Sales – Average revenue per transaction or item
+  
 * Number of Items Sold – Count of distinct items sold
+  
 * Average Rating – Mean customer rating for sold items
 
 📈 **Visualizations & Objectives**
@@ -38,10 +41,10 @@ The report is designed to answer key business questions related to:
   Chart Type: Bar Chart
 
 * **Fat Content by Outlet for Total Sales**
-* 
-  Objective: Compare total sales across outlets segmented by fat content
   
-  Chart Type: Stacked Column Chart
+  * Objective * : Compare total sales across outlets segmented by fat content
+  
+  * Chart Type *: Stacked Column Chart
 
 * **Total Sales by Outlet Establishment**
 * 
@@ -64,6 +67,7 @@ The report is designed to answer key business questions related to:
 * **All Metrics by Outlet Type**
 * 
   Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
+  
   Chart Type: Matrix Card
 
 🖼️ **Dashboard Snapshots:**
