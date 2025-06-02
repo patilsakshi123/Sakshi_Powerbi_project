@@ -28,7 +28,7 @@ The report is designed to answer key business questions related to:
 
 📈 Visualizations & Objectives
 
-Total Sales by Fat Content
+**Total Sales by Fat Content**
 Objective: Analyze how fat content influences total sales and related KPIs
 Chart Type: Donut Chart
 
