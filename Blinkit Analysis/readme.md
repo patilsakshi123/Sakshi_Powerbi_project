@@ -3,9 +3,11 @@
 📊 **Blinkit Sales Analysis – Power BI Project**
 
 📝 **Project Overview**
+
 This Power BI report provides a comprehensive analysis of Blinkit's sales data to uncover key insights across revenue generation, customer satisfaction, inventory distribution, and outlet performance. The goal is to help stakeholders identify areas of optimization using interactive dashboards and KPIs.
 
 🎯 **Business Requirements**
+
 The report is designed to answer key business questions related to:
 
 * Overall sales performance
@@ -24,41 +26,50 @@ The report is designed to answer key business questions related to:
 📈 **Visualizations & Objectives**
 
 * **Total Sales by Fat Content**
+* 
   Objective: Analyze how fat content influences total sales and related KPIs
   
   Chart Type: Donut Chart
 
 * **Total Sales by Item Type**
+* 
   Objective: Evaluate item type performance by total sales and additional KPIs
   
   Chart Type: Bar Chart
 
 * **Fat Content by Outlet for Total Sales**
+* 
   Objective: Compare total sales across outlets segmented by fat content
   
   Chart Type: Stacked Column Chart
 
 * **Total Sales by Outlet Establishment**
+* 
   Objective: Analyze how the age or type of outlet influences sales
   
   Chart Type: Line Chart
 
 * **Sales by Outlet Size**
+* 
   Objective: Understand how outlet size correlates with sales
   
   Chart Type: Donut or Pie Chart
 
 * **Sales by Outlet Location**
+* 
   Objective: Visualize geographic sales distribution
   
   Chart Type: Funnel Map
 
 * **All Metrics by Outlet Type**
+* 
   Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
   Chart Type: Matrix Card
 
 🖼️ **Dashboard Snapshots:**
-*(Add images here if needed)*
+
+![image](https://github.com/user-attachments/assets/3ae42a18-eb5f-4207-ab4e-9d8a6ea9b785)
+
 
 🛠 **Tools Used**
 
