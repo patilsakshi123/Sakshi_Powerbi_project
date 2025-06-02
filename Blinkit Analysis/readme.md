@@ -30,6 +30,7 @@ The report is designed to answer key business questions related to:
 
 * **Total Sales by Fat Content**
 *
+
  Objective: Analyze how fat content influences total sales and related KPIs
   
   Chart Type: Donut Chart
@@ -54,7 +55,7 @@ The report is designed to answer key business questions related to:
 
 * **Sales by Outlet Size**
  * 
- * Objective: Understand how outlet size correlates with sales
+   Objective: Understand how outlet size correlates with sales
   
    Chart Type: Donut or Pie Chart
 
