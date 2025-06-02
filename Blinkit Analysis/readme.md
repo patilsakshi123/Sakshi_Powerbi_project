@@ -27,7 +27,8 @@ Number of Items Sold – Count of distinct items sold
 Average Rating – Mean customer rating for sold items
 
 
-#📈 Visualizations & Objectives
+📈 Visualizations & Objectives
+
 Total Sales by Fat Content
 Objective: Analyze how fat content influences total sales and related KPIs
 Chart Type: Donut Chart
