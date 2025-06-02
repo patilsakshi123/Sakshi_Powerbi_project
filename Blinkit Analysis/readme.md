@@ -27,16 +27,34 @@ Number of Items Sold – Count of distinct items sold
 Average Rating – Mean customer rating for sold items
 
 
-📈 Visualizations & Objectives
-#	Chart Title	Objective	Chart Type
-1	Total Sales by Fat Content	Analyze sales distribution by fat content and explore how other KPIs vary with fat content	Donut Chart
-2	Total Sales by Item Type	Understand performance of various item categories and supporting KPIs	Bar Chart
-3	Fat Content by Outlet for Total Sales	Compare outlet-level sales performance segmented by fat content	Stacked Column Chart
-4	Total Sales by Outlet Establishment Year	Explore trends in sales based on outlet age/type	Line Chart
-5	Sales by Outlet Size	Evaluate how outlet size influences sales performance	Donut / Pie Chart
-6	Sales by Outlet Location	Visualize geographic distribution of sales	Funnel Map
-7	All Metrics by Outlet Type	Display all KPIs segmented by outlet type	Matrix Card
+#📈 Visualizations & Objectives
+Total Sales by Fat Content
+Objective: Analyze how fat content influences total sales and related KPIs
+Chart Type: Donut Chart
 
+Total Sales by Item Type
+Objective: Evaluate item type performance by total sales and additional KPIs
+Chart Type: Bar Chart
+
+Fat Content by Outlet for Total Sales
+Objective: Compare total sales across outlets segmented by fat content
+Chart Type: Stacked Column Chart
+
+Total Sales by Outlet Establishment
+Objective: Analyze how the age or type of outlet influences sales
+Chart Type: Line Chart
+
+Sales by Outlet Size
+Objective: Understand how outlet size correlates with sales
+Chart Type: Donut or Pie Chart
+
+Sales by Outlet Location
+Objective: Visualize geographic sales distribution
+Chart Type: Funnel Map
+
+All Metrics by Outlet Type
+Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
+Chart Type: Matrix Card
 🖼️ Dashboard Snapshots: 
 
 ![image](https://github.com/user-attachments/assets/009f428e-6867-4c38-ad58-4a7147a2e1e1)
