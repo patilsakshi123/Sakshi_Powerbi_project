@@ -26,7 +26,7 @@ The report is designed to answer key business questions related to:
   
 * Average Rating – Mean customer rating for sold items
 
-📈 Visualizations & Objectives
+📈 **Visualizations & Objectives**
 
 **Total Sales by Fat Content**
 
