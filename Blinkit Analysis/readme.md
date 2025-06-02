@@ -26,50 +26,35 @@ The report is designed to answer key business questions related to:
   
 * Average Rating – Mean customer rating for sold items
 
-📈 **Visualizations & Objectives**
+📈 Visualizations & Objectives
 
-* **Total Sales by Fat Content**
-*
+Total Sales by Fat Content
+Objective: Analyze how fat content influences total sales and related KPIs
+Chart Type: Donut Chart
 
- Objective: Analyze how fat content influences total sales and related KPIs
-  
-  Chart Type: Donut Chart
+Total Sales by Item Type
+Objective: Evaluate item type performance by total sales and additional KPIs
+Chart Type: Bar Chart
 
-* **Total Sales by Item Type**
-*
- Objective: Evaluate item type performance by total sales and additional KPIs
-  
-  Chart Type: Bar Chart
+Fat Content by Outlet for Total Sales
+Objective: Compare total sales across outlets segmented by fat content
+Chart Type: Stacked Column Chart
 
-* **Fat Content by Outlet for Total Sales**
-  *
-  Objective  : Compare total sales across outlets segmented by fat content
-  
-    Chart Type : Stacked Column Chart
+Total Sales by Outlet Establishment
+Objective: Analyze how the age or type of outlet influences sales
+Chart Type: Line Chart
 
-* **Total Sales by Outlet Establishment**
-  *
-   Objective: Analyze how the age or type of outlet influences sales
-  
-   Chart Type: Line Chart
+Sales by Outlet Size
+Objective: Understand how outlet size correlates with sales
+Chart Type: Donut or Pie Chart
 
-* **Sales by Outlet Size**
- * 
-   Objective: Understand how outlet size correlates with sales
-  
-   Chart Type: Donut or Pie Chart
+Sales by Outlet Location
+Objective: Visualize geographic sales distribution
+Chart Type: Funnel Map
 
-* **Sales by Outlet Location**
- * 
-   Objective: Visualize geographic sales distribution
-  
-   Chart Type: Funnel Map
-
-* **All Metrics by Outlet Type**
-* 
-   Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
-  
-   Chart Type: Matrix Card
+All Metrics by Outlet Type
+Objective: Show a comprehensive view of all KPIs (Total Sales, Avg Sales, Items, Ratings) by outlet type
+Chart Type: Matrix Card
 
 🖼️ **Dashboard Snapshots:**
 
